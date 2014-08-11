@@ -35,7 +35,7 @@ import android.view.View;
         private void init() {
             mFillPen = new Paint();
             mFillPen.setAntiAlias(true);
-            mFillPen.setColor(Color.BLUE);
+            mFillPen.setColor(Color.RED);
         }
 
         @Override
